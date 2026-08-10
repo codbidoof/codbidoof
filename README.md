@@ -34,6 +34,6 @@
 
 ---
 
-### 🔍 Stats
+### 🔍 Velog
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hyunwoomoon?theme=dark&posts=3)
